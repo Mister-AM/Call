@@ -23,8 +23,8 @@ def mengetik(z):
       time.sleep(0.05)
 
 os.system('clear')
-print ('\033[36;1mSubscribe yt ku ngab \033[37mMisterAM \033[36mok! :v')
-os.system('termux-open-url https://youtube.com/channel/UCXk4vbvDl7i6dxWBtNdpx6w')
+print ('\033[36;1mSubscribe yt ku ngab \033[37mClover \033[36mok! :v')
+os.system('termux-open-url https://youtube.com/channel/UCMkyXfqqWm_uuMh2UBOHc8w')
 sleep(5)
 os.system('clear')
 print ('\033[36;1mSubs juga chanelnya \033[37;1myg ngasih source ngab :v')
@@ -42,12 +42,12 @@ banner= """
 \033[37;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[37;1m  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║  \033[36;1m [•] Authour : MisterAM                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Authour : Clover                        \033[33;1m ║
 \033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Mister-AM    \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] Yotube  : MisterAM                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Credit  : MisterAM                      \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
 \033[36;1m╔═══════════════════════════╗
-\033[36;1m║\033[33;1m GUNAKAN DENGAB BJIAK NGAB\033[36;1m ║
+\033[36;1m║\033[33;1m GUNAKAN DENGAB BIJAK YA\033[36;1m ║
 \033[36;1m╚═══════════════════════════╝"""
 sleep(1)
 print(banner)
